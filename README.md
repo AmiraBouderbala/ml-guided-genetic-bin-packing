@@ -89,7 +89,9 @@ ml-guided-genetic-bin-packing/
 ├── ML_Guided_GA_BinPacking.ipynb
 
 ├── data/
+
 │ └── benchmark/
+
 │ └── falkenauer/
 
 └── paper.pdf
