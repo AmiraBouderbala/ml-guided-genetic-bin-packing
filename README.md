@@ -82,16 +82,16 @@ The hybrid approach achieved:
 
 ## Project Structure
 
-ml-guided-genetic-bin-packing/
+ml-guided-genetic-bin-packing/ 
 
-├── README.md
+ ├── README.md 
 
-├── ML_Guided_GA_BinPacking.ipynb
+ ├── ML_Guided_GA_BinPacking.ipynb 
 
-├── data/
+ ├── data/ 
 
-│ └── benchmark/
+        └──  scholl/ 
 
-│ └── falkenauer/
+        └── falkenauer/ 
 
-└── paper.pdf
+ └── paper.pdf
